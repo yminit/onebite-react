@@ -1,0 +1,24 @@
+.diraryList {
+}
+
+.diraryList .menu_bar {
+  margin: 20px 0px;
+  display: flex;
+  gap: 10px;
+}
+
+.diraryList .menu_bar select {
+  background-color: rgb(236, 236, 236);
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.diraryList .menu_bar button {
+  flex: 1;
+}
+
+.diraryList .list_wrapper {
+}
